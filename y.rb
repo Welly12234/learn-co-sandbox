@@ -1,1 +1,1 @@
-puts "Evard\nMunch"
+p "Evard\nMunch"
