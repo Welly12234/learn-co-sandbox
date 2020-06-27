@@ -1,2 +1,2 @@
-puts "Hello World"
-#print "Hello World2"
+#puts "Hello World"
+print "Hello World2"
